@@ -1,0 +1,13 @@
+{
+    "beercase": {
+        "branch": "*",
+        "script": "./example.sh",
+        "secret": "caseofbeer"
+    },
+    "bread": {
+        "branch": "refs/heads/main",
+        "script": "/home/john/bread.sh",
+        "secret": "butter"
+    }
+}
+
